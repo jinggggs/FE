@@ -1,0 +1,8 @@
+my-project-docs/
+├── README.md
+├── CONTRIBUTING.md
+└── docs/
+    ├── index.md
+    ├── getting-started.md
+    ├── usage.md
+    └── faq.md
